@@ -1,7 +1,7 @@
 ##  Olá, Eu sou o Juan Carlos
 
 - 🔭 Atualmente trabalho como Técnico de T.I
-- 🌱 Aprendendo Pyhton
+- 🌱 Aprendendo HTML, CSS e  JAVASCRIPT
 
 
  <div>
