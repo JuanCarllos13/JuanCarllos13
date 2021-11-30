@@ -6,8 +6,8 @@
 
  <div>
   <a href="https://github.com/JuanCarllos13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanCarllos13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCarllos13&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JuanCarllos13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCarllos13&layout=compact&langs_count=7&theme=dark"/>
 </div>
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
   <div style="display: inline_block"><br>
