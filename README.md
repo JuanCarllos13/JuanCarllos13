@@ -1,7 +1,7 @@
 ## Welcome to my profile.💻
-<h4>🌎 Olá, meu nome é Juan Carlos. Sou Desenvolvedor Front-End. </h4>
+<h4>🌎 Hi, my name is Juan Carlos. I'm a Front-End Developer.. </h4>
 
-<h4>📚 Habilidades: HTML, CSS, JavaScript.</h4>
+<h4>📚 Skills: HTML, CSS, JavaScript.</h4>
 
  <div>
   <a href="https://github.com/JuanCarllos13">
@@ -16,7 +16,7 @@
   <img align="center" alt="Logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
- <h4> 💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.</h4>
+ <h4> 💌 If you want to chat with me, don't hesitate to send me a message..</h4>
   <p>
   <a href="https://www.instagram.com/juan.carllos_/" target="_blank">
    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
