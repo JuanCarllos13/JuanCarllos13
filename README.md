@@ -20,12 +20,19 @@
   <p>
   <a href="https://www.instagram.com/juan.carllos_/" target="_blank">
    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/juan-amaral1313/" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/juancarlos13/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:juan2017amaral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </p>
  
  ## 👀 Visitor's Count
  
 <div>
 <p style="font-size: 10px;"><img src="https://profile-counter.glitch.me/{JuanCarllos13}/count.svg" alt="JuanCarllos13 :: Visitor's Count" /></p>
+</div>
+
+  ##
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
