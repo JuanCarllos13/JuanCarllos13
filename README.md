@@ -3,6 +3,9 @@
 
 <h4>📚 Skills: HTML, CSS, JavaScript, React.js, React Native, TypeScript, Node.js</h4>
 
+
+ - ☕ [Buy me a coffee](https://www.buymeacoffee.com/juanCarllos13)! 
+ 
  <div>
   <a href="https://github.com/JuanCarllos13">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JuanCarllos13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -28,6 +31,7 @@
   <a href = "mailto:juan2017amaral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  </p>
+ 
  
  ## 👀 Visitor's Count
  
