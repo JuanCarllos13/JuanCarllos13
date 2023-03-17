@@ -1,5 +1,5 @@
 ## Welcome to my profile.💻
-<h4>🌎 Hi, my name is Juan Carlos. I'm a Front-End Developer.. </h4>
+<h4>🌎 Hi, my name is Juan Carlos. I'm a Full Stack Developer.. </h4>
 
 <h4>📚 Skills: HTML, CSS, JavaScript, React.js, React Native, TypeScript, Node.js</h4>
 
